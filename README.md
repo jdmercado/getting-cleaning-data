@@ -1,7 +1,7 @@
 Getting and Cleaning Data Course Project
 =====================
 
-This is a guid to understand the project solution for the project in Getting and Cleaning Data course. The raw data for this project must be dowloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", which contains data collected from the accelerometers from the Samsung Galaxy S smartphone. The credits for the data collectors are in this website:
+This is a guide to understand the project solution for the project in Getting and Cleaning Data course. The raw data for this project must be downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", which contains data collected from the accelerometers from the Samsung Galaxy S smartphone. The credits for the data collectors are in this website:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
